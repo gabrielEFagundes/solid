@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/COP/pom.xml" />
         <option value="$PROJECT_DIR$/ocp/pom.xml" />
         <option value="$PROJECT_DIR$/srp/pom.xml" />
+        <option value="$PROJECT_DIR$/lsp/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
