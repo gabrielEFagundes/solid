@@ -1,6 +1,6 @@
-package org.example.interfaces;
+package org.senai.interfaces;
 
-import org.example.model.Pedido;
+import org.senai.model.Pedido;
 
 public interface EstrategiaDeFrete {
     double calcularValorFinal(Pedido pedido);

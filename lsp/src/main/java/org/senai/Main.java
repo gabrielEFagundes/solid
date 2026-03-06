@@ -1,9 +1,9 @@
-package org.example;
+package org.senai;
 
-import org.example.model.Pedido;
-import org.example.model.frete.FreteGratis;
-import org.example.model.frete.FretePadrao;
-import org.example.strat.ProcessadorDePagamento;
+import org.senai.model.Pedido;
+import org.senai.model.frete.FreteGratis;
+import org.senai.model.frete.FretePadrao;
+import org.senai.strat.ProcessadorDePagamento;
 
 public class Main {
     // aqui é possível perceber que o método processar pode ser usado com qualquer implementação do EstratégiaDeFrete

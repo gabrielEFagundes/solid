@@ -1,4 +1,4 @@
-package org.example.model;
+package org.senai.model;
 
 public class Pedido {
     private double valorBruto;

@@ -1,7 +1,7 @@
-package org.example.strat;
+package org.senai.strat;
 
-import org.example.interfaces.EstrategiaDeFrete;
-import org.example.model.Pedido;
+import org.senai.interfaces.EstrategiaDeFrete;
+import org.senai.model.Pedido;
 
 public class ProcessadorDePagamento {
 

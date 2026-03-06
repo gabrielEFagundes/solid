@@ -1,7 +1,7 @@
-package org.example.model.frete;
+package org.senai.model.frete;
 
-import org.example.interfaces.EstrategiaDeFrete;
-import org.example.model.Pedido;
+import org.senai.interfaces.EstrategiaDeFrete;
+import org.senai.model.Pedido;
 
 public class FreteGratis implements EstrategiaDeFrete {
 
