@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="srp" />
         <module name="lsp" />
+        <module name="dip" />
         <module name="ocp" />
         <module name="isp" />
       </profile>

@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/srp/pom.xml" />
         <option value="$PROJECT_DIR$/lsp/pom.xml" />
         <option value="$PROJECT_DIR$/isp/pom.xml" />
+        <option value="$PROJECT_DIR$/dip/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
